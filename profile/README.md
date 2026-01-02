@@ -60,3 +60,5 @@ Otras formaciones que hemos impartido
 [![Web](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logo=ghost&logoColor=white)](https://devexpert.io)
 [![YouTube](https://img.shields.io/badge/-DevExpert-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
 [![AI Expert](https://img.shields.io/badge/-AI_Expert-111827?style=flat-square&logo=openai&logoColor=white)](https://devexpert.io/cursos/expert/ai)
+[![X](https://img.shields.io/badge/-@devexpert__io-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/devexpert_io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/20539843)
