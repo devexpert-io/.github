@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="DevExpert" width="320" />
+  <img src="logo.png" alt="DevExpert" width="320" />
 </p>
 
 # DevExpert
