@@ -2,6 +2,8 @@
 
 > Formación en Android, Kotlin y IA en español. Construimos contenido práctico para aprender y aplicar en proyectos reales.
 
+🍭 **[devexpert.io](https://devexpert.io)** — Plataforma en español de formación en Android, Kotlin e IA.
+
 ## Foco
 
 - IA para developers (herramientas, flujos y automatización)
