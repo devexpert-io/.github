@@ -59,6 +59,29 @@ Otras formaciones que hemos impartido
 
 - 🪐 **[TofuConf](https://github.com/devexpert-io/tofuconf)** — Web del evento TofuConf
 
+## Últimos artículos
+
+- **[El año en que la IA amenazó nuestros trabajos: Análisis del 2025 y objetivos para el 2026](https://devexpert.io/blog/analisis-2025-objetivos-2026)**
+- **[¿Es necesario hacer formaciones sobre el uso de Inteligencia Artificial?](https://devexpert.io/blog/necesidad-formaciones-ia)**
+- **[Duelo de LLMs: Gemini 3 Flash vs Opus 4.5 vs GPT-5.2-Codex vs GLM-4.7](https://devexpert.io/blog/duelo-de-llms)**
+- **[Cerrando el círculo de la IA en Desarrollo de Software](https://devexpert.io/blog/cerrando-circulo-ia)**
+- **[Screenshot Testing con las previews de Compose](https://devexpert.io/blog/screenshot-testing-compose)**
+
+## Charlas en YouTube
+
+- **[Debate: "La IA hizo desaparecer al programador senior", (con @devexpert_io)](https://www.youtube.com/watch?v=T4cI2VLnJsc&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=1&pp=iAQB)**
+- **[Antonio Leiva - MCPs con Kotlin: Creando Superpoderes para tu Asistente IA - DevFest Aranjuez 25](https://www.youtube.com/watch?v=UC6aoGv02UA&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=2&pp=iAQB0gcJCU0KAYcqIYzv)**
+- **[Explorando Gemini Nano: Integración de IA en Apps Android - T3chFest 10](https://www.youtube.com/watch?v=_2SFUh-XO64&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=3&pp=iAQB)**
+- **[Antonio Leiva - Speaker Codemotion 2024](https://www.youtube.com/watch?v=WmpUloqvquE&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=4&pp=iAQB)**
+- **[Mastering Recompositions in Compose | Antonio Leiva](https://www.youtube.com/watch?v=ufJ9UehyWt8&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=5&pp=iAQB)**
+- **[Antonio Leiva: "Kotlin Multiplatform: la tecnología multiplataforma del futuro".](https://www.youtube.com/watch?v=gmxvqYHCHM0&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=6&pp=iAQB)**
+- **[IA y Desarrollo de Software: Desafíos y Oportunidades | Globant Minds Code Edition](https://www.youtube.com/watch?v=GkwHb6Czm4s&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=7&pp=iAQB)**
+- **[Kotlin Multiplatform: la tecnología multiplataforma del futuro - T3chFest 2024](https://www.youtube.com/watch?v=HqvBbF5tFs4&list=PLrn69hTK5FBxXi7KFPnIc3fOTjqFANcub&index=8&pp=iAQB0gcJCU0KAYcqIYzv)**
+
+## Sobre Antonio
+
+DevExpert está creado por **Antonio Leiva**, Google Developer Expert en Android y formador internacional. Comparte contenido técnico en **[antonioleiva.com](https://antonioleiva.com)** y en GitHub como **[@antoniolg](https://github.com/antoniolg)**.
+
 ## Connect
 
 [![Web](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logo=ghost&logoColor=white)](https://devexpert.io)
