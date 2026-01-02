@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="DevExpert" width="320" />
+</p>
+
 # DevExpert
 
 > Formación en Android, Kotlin y IA en español. Construimos contenido práctico para aprender y aplicar en proyectos reales.
