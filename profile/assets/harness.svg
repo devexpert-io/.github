@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="La misma petición sin arnés y con arnés">
+<style>
+.t{font:600 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8c909a}
+.l{font:16px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@keyframes a0{0%,4.29%{opacity:0;transform:translateY(6px)}6.79%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.a0{animation:a0 14.0s infinite;opacity:0}
+@keyframes a1{0%,13.57%{opacity:0;transform:translateY(6px)}16.07%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.a1{animation:a1 14.0s infinite;opacity:0}
+@keyframes a2{0%,22.86%{opacity:0;transform:translateY(6px)}25.36%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.a2{animation:a2 14.0s infinite;opacity:0}
+@keyframes a3{0%,32.14%{opacity:0;transform:translateY(6px)}34.64%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.a3{animation:a3 14.0s infinite;opacity:0}
+@keyframes a4{0%,41.43%{opacity:0;transform:translateY(6px)}43.93%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.a4{animation:a4 14.0s infinite;opacity:0}
+@keyframes b0{0%,4.29%{opacity:0;transform:translateY(6px)}6.79%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.b0{animation:b0 14.0s infinite;opacity:0}
+@keyframes b1{0%,12.14%{opacity:0;transform:translateY(6px)}14.64%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.b1{animation:b1 14.0s infinite;opacity:0}
+@keyframes b2{0%,20.00%{opacity:0;transform:translateY(6px)}22.50%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.b2{animation:b2 14.0s infinite;opacity:0}
+@keyframes b3{0%,27.86%{opacity:0;transform:translateY(6px)}30.36%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.b3{animation:b3 14.0s infinite;opacity:0}
+@keyframes b4{0%,35.71%{opacity:0;transform:translateY(6px)}38.21%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.b4{animation:b4 14.0s infinite;opacity:0}
+@keyframes b5{0%,43.57%{opacity:0;transform:translateY(6px)}46.07%,92%{opacity:1;transform:none}97%,100%{opacity:0}}
+.b5{animation:b5 14.0s infinite;opacity:0}
+@media (prefers-reduced-motion: reduce){.l{animation:none!important;opacity:1!important}}
+</style>
+<rect width="1200" height="380" rx="18" fill="#0d0e11"/>
+<g transform="translate(30,40)">
+<rect width="560" height="300" rx="14" fill="#16181d" stroke="#2c2f37"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="90" y="27" class="t">chat — sin arnés</text><text x="536" y="27" text-anchor="end" class="t">❌</text>
+<line x1="0" y1="44" x2="560" y2="44" stroke="#2c2f37"/>
+<text x="22" y="84" class="l a0" fill="#eceae2">$ hazme el login con Google</text>
+<text x="22" y="122" class="l a1" fill="#7ee2a8">✓ ¡Hecho! Login implementado.</text>
+<text x="22" y="160" class="l a2" fill="#ff8f8f">✗ 4 tests failing</text>
+<text x="22" y="198" class="l a3" fill="#ff8f8f">✗ el signup ha dejado de funcionar</text>
+<text x="22" y="236" class="l a4" fill="#eceae2">$ arréglalo...</text>
+</g>
+<g transform="translate(610,40)">
+<rect width="560" height="300" rx="14" fill="#16181d" stroke="#2c2f37"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="90" y="27" class="t">agente — con tu arnés</text><text x="536" y="27" text-anchor="end" class="t">✅</text>
+<line x1="0" y1="44" x2="560" y2="44" stroke="#2c2f37"/>
+<text x="22" y="84" class="l b0" fill="#eceae2">$ hazme el login con Google</text>
+<text x="22" y="122" class="l b1" fill="#a790fa">→ leyendo AGENTS.md y contexto</text>
+<text x="22" y="160" class="l b2" fill="#a790fa">→ spec: alcance + criterios de aceptación</text>
+<text x="22" y="198" class="l b3" fill="#a790fa">→ implementando (solo archivos del alcance)</text>
+<text x="22" y="236" class="l b4" fill="#7ee2a8">✓ tests 12/12 · lint ok</text>
+<text x="22" y="274" class="l b5" fill="#7ee2a8">✓ PR listo para tu revisión</text>
+</g>
+</svg>
