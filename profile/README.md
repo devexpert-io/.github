@@ -13,7 +13,7 @@
 <!-- edition:end -->
 
 <!-- hitl:start -->
-🧑‍🤝‍🧑 **Próximo Humans in the Loop: jueves 12 nov · 18:00 a 21:00** (dónde Madrid, Orbitant). En persona y gratis. [Apúntate en Luma →](https://luma.com/tx2ao2t6)
+🧑‍🤝‍🧑 **Próximo Humans in the Loop: jueves 12 nov · 18:00 a 21:00** (Madrid, Orbitant). En persona y gratis. [Apúntate en Luma →](https://luma.com/tx2ao2t6)
 <!-- hitl:end -->
 
 ## La misma petición, con y sin arnés
