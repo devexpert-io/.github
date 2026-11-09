@@ -62,11 +62,11 @@ Lo último en el [canal de YouTube](https://www.youtube.com/@devexpert_io):
 ## Últimos artículos
 
 <!-- posts:start -->
+- [Harness engineering: qué es, cómo se monta y cuándo sobra](https://devexpert.io/blog/harness-engineering)
 - [Cómo carga Claude Code AGENTS.md y CLAUDE.md: lo he probado fichero a fichero](https://devexpert.io/blog/claude-code-agents-md-claude-md)
 - [Mis agentes de Codex también se despistan: así los organizo con AGENTS.md](https://devexpert.io/blog/organizar-agentes-codex-agents-md)
 - [Qué es Loop Engineering: ejemplo práctico con Codex](https://devexpert.io/blog/que-es-loop-engineering-ejemplo-practico-codex)
 - [Cómo usar 1Password para dar secretos a agentes y apps de escritorio](https://devexpert.io/blog/1password-secretos-agentes-apps-escritorio)
-- [Cómo activar el thinking mode de Gemma 4 en LM Studio y OpenCode](https://devexpert.io/blog/activar-thinking-mode-gemma-lm-studio-opencode)
 <!-- posts:end -->
 
 ## Charlas recientes
