@@ -13,7 +13,7 @@
 <!-- edition:end -->
 
 <!-- hitl:start -->
-🧑‍🤝‍🧑 **Próximo Humans in the Loop: jueves 12 nov · 18:00 a 21:00** (Madrid, Orbitant). En persona y gratis. [Apúntate en Luma →](https://luma.com/tx2ao2t6)
+🧑‍🤝‍🧑 **Próximo Humans in the Loop: jueves 10 dic · 18:00 a 21:00** (Madrid, Orbitant). En persona y gratis. [Apúntate en Luma →](https://luma.com/tn5fry9e)
 <!-- hitl:end -->
 
 ## La misma petición, con y sin arnés
@@ -55,18 +55,18 @@ Lo último en el [canal de YouTube](https://www.youtube.com/@devexpert_io):
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=G5RkSRNaIuE"><img src="https://i.ytimg.com/vi/G5RkSRNaIuE/mqdefault.jpg" alt="Me monté mi propio ChatGPT Dots con Hermes" width="100%"></a><br><sub>Me monté mi propio ChatGPT Dots con Hermes</sub></td><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=sasgoZTgZHQ"><img src="https://i.ytimg.com/vi/sasgoZTgZHQ/mqdefault.jpg" alt="Convertí una tablet vieja en el panel de mi día" width="100%"></a><br><sub>Convertí una tablet vieja en el panel de mi día</sub></td></tr>
-<tr><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=D2xWH-rNQq8"><img src="https://i.ytimg.com/vi/D2xWH-rNQq8/mqdefault.jpg" alt="Puse un modelo de decisión a vigilar a mi agente" width="100%"></a><br><sub>Puse un modelo de decisión a vigilar a mi agente</sub></td><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=ZLP-49T5gW4"><img src="https://i.ytimg.com/vi/ZLP-49T5gW4/mqdefault.jpg" alt="Qué son los embeddings, explicado con tus fotos" width="100%"></a><br><sub>Qué son los embeddings, explicado con tus fotos</sub></td></tr>
+<tr><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=D2xWH-rNQq8"><img src="https://i.ytimg.com/vi/D2xWH-rNQq8/mqdefault.jpg" alt="Modelos de decisión: la IA que no escribe" width="100%"></a><br><sub>Modelos de decisión: la IA que no escribe</sub></td><td width="50%" valign="top"><a href="https://www.youtube.com/watch?v=ZLP-49T5gW4"><img src="https://i.ytimg.com/vi/ZLP-49T5gW4/mqdefault.jpg" alt="Qué son los embeddings, explicado con tus fotos" width="100%"></a><br><sub>Qué son los embeddings, explicado con tus fotos</sub></td></tr>
 </table>
 <!-- videos:end -->
 
 ## Últimos artículos
 
 <!-- posts:start -->
+- [Context engineering: qué entra en el contexto de tu agente y cómo mantenerlo ligero](https://devexpert.io/blog/context-engineering)
 - [Harness engineering: qué es, cómo se monta y cuándo sobra](https://devexpert.io/blog/harness-engineering)
 - [Cómo carga Claude Code AGENTS.md y CLAUDE.md: lo he probado fichero a fichero](https://devexpert.io/blog/claude-code-agents-md-claude-md)
 - [Mis agentes de Codex también se despistan: así los organizo con AGENTS.md](https://devexpert.io/blog/organizar-agentes-codex-agents-md)
 - [Qué es Loop Engineering: ejemplo práctico con Codex](https://devexpert.io/blog/que-es-loop-engineering-ejemplo-practico-codex)
-- [Cómo usar 1Password para dar secretos a agentes y apps de escritorio](https://devexpert.io/blog/1password-secretos-agentes-apps-escritorio)
 <!-- posts:end -->
 
 ## Charlas recientes
