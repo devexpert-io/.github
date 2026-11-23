@@ -62,11 +62,11 @@ Lo último en el [canal de YouTube](https://www.youtube.com/@devexpert_io):
 ## Últimos artículos
 
 <!-- posts:start -->
+- [MCP: qué es y cuándo compensa frente a una CLI o una skill](https://devexpert.io/blog/que-es-mcp)
 - [Context engineering: qué entra en el contexto de tu agente y cómo mantenerlo ligero](https://devexpert.io/blog/context-engineering)
 - [Harness engineering: qué es, cómo se monta y cuándo sobra](https://devexpert.io/blog/harness-engineering)
 - [Cómo carga Claude Code AGENTS.md y CLAUDE.md: lo he probado fichero a fichero](https://devexpert.io/blog/claude-code-agents-md-claude-md)
 - [Mis agentes de Codex también se despistan: así los organizo con AGENTS.md](https://devexpert.io/blog/organizar-agentes-codex-agents-md)
-- [Qué es Loop Engineering: ejemplo práctico con Codex](https://devexpert.io/blog/que-es-loop-engineering-ejemplo-practico-codex)
 <!-- posts:end -->
 
 ## Charlas recientes
@@ -102,7 +102,7 @@ DevExpert lo fundó **Antonio Leiva**, Google Developer Expert en Android. Cuent
 ## Connect
 
 <!-- youtube-subs:start -->
-[![YouTube](https://img.shields.io/badge/YouTube-64.8K_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
+[![YouTube](https://img.shields.io/badge/YouTube-64.9K_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@devexpert_io)
 <!-- youtube-subs:end -->
 [![Web](https://img.shields.io/badge/-devexpert.io-0B7285?style=flat-square&logoColor=white)](https://devexpert.io)
 [![X](https://img.shields.io/badge/-@devexpert__io-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/devexpert_io)
